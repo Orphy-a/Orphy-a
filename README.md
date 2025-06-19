@@ -51,6 +51,3 @@
 	<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orphy-a&layout=compact&theme=dracula)
 
-<p>공사중</p>
-
-
