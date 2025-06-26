@@ -49,9 +49,9 @@
 ### 💼 프로젝트
 | 이름 | 설명 | 기술스택
 |------|------|----------
-| [롯데ON](https://github.com/Orphy-a/lotte1-lotteon-project-team2) | Spring Boot 기반 쇼핑몰 프로젝트 | Java, Spring Boot, JPA, MySQL 
-| [그린대 수강관리시스템](https://github.com/Orphy-a/2nd-project-greendae) | 대학 강의/교수 관리 시스템 | Spring Boot, JPA, Thymeleaf |
-| [zylo 프로젝트](https://github.com/Orphy-a/lotte2-community-app-project-team4) | React + MSA 기반 사내커뮤니티 사이트 프로젝트 | React, Zustand, MSA |
+| [롯데ON](https://github.com/Orphy-a/lotte1-lotteon-project-team2) | Spring Boot 기반 쇼핑몰 프로젝트 | Java, Spring Boot, JPA, MySQL, AWS, Docker|
+| [그린대 수강관리시스템](https://github.com/Orphy-a/2nd-project-greendae) | 대학 강의/교수 관리 시스템 | Spring Boot, JPA, Thymeleaf, JPA, mybatis, AWS  |
+| [zylo 프로젝트](https://github.com/Orphy-a/lotte2-community-app-project-team4) | React + MSA 기반 사내커뮤니티 사이트 프로젝트 | React, Zustand, MSA, JPA, QueryDSL, AWS, node.js, Docker |
 
 ---
 
